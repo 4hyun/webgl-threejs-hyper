@@ -1,9 +1,10 @@
 {
   "name": "hyper",
   "version": "1.0.0",
-  "description": "",
+  "description": "hyperbolic helicoid with threejs",
   "main": "index.js",
   "scripts": {
+    "dev": "canvas-sketch sketches/index.js --open",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
